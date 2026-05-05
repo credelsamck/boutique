@@ -223,7 +223,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST'){
             <?php endforeach; ?>
         </table>
 
-        <button type="submit" class="btn-submit">✅ Valider la vente</button>
+        <button type="submit" class="btn-submit"> Valider la vente</button>
     </form>
 
     <br>
